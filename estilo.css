@@ -1,0 +1,23 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 14/06/2020, 02:11:19 PM
+    Author     : Win 8.1
+*/
+div{
+    text-align: center;
+    border: solid;
+    width: 400px;
+    height: 300px;
+    font: Times;
+    margin-left: auto;
+    margin-right: auto;
+    background: linear-gradient(to right bottom, white, rgb(200, 220, 240))
+}
+h3{
+    font: Cambria;
+    color: rgb(255,0,50)
+}
